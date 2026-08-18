@@ -17,7 +17,7 @@ I'm an aspiring data scientist currently exploring the world of data analytics w
 ### 1. [Top Paying Jobs For Data Scientists](1_top_paying_jobs.sql)
 **Summary:** Identify top 10 highest - paying Data Scientist roles that are available remotely.
 
-![Salary by company](Assets\salary_by_company.png)
+![Salary by company](Assets/salary_by_company.png)
 
 *Figure 1: Average salary payouts of companies*
 
@@ -54,7 +54,7 @@ I'm an aspiring data scientist currently exploring the world of data analytics w
 ### 4. [Top Paying Skills For Data Scientists](4_top_paying_skills.sql)
 **Summary:** It reveals how different skills impact salary levels for Data Scientists and helps identify the most financially rewarding skills to acquire.
 
-![Distribution of average salaries](Assets\skill_salary_distribution.png)
+![Distribution of average salaries](Assets/skill_salary_distribution.png)
 
 *Figure 2: Salary and skills distribution*
 
@@ -74,15 +74,15 @@ I'm an aspiring data scientist currently exploring the world of data analytics w
 ### 5. [Top Optimal Skills For Data Scientists](5_top_optimal_skills.sql)
 **Summary:** Showcases the skills in high demand and associated with high average salary for Data Scientist roles.
 
-![In demand skills](Assets\top_skills_demand.png)
+![In demand skills](Assets/top_skills_demand.png)
 
 *Figure 3: Top in - demand skills*
 
-![High payout skills](Assets\top_skills_salary.png)
+![High payout skills](Assets/top_skills_salary.png)
 
 *Figure 4: High payout skills*
 
-![Demand Vs Salary](Assets\demand_vs_salary.png)
+![Demand Vs Salary](Assets/demand_vs_salary.png)
 
 *Figure 5: Distribution of skills in - demand Vs high payout  skills*
 
